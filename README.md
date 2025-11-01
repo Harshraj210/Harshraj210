@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 First-year undergraduate student at SMVIT, diving into the exciting world of Electronics & Computer science (E&CS)! 🚀<br>💻 Currently on a journey to master Full Stack Web Development with the MERN stack (MongoDB, Express.js, React.js, Node.js). 🛠️<br>💡 Passionate about continuous learning and exploring new technologies. Always eager to expand my skill set! ✨<br>🌱 Excited to connect with fellow developers and contribute to innovative projects. Let's build something amazing! 🤝
+👋 Second-year undergraduate student at SMVIT, diving into the exciting world of Electronics & Computer science (E&CS)! 🚀<br>💻 Currently on a journey to master Full Stack Web Development with the MERN stack (MongoDB, Express.js, React.js, Node.js). 🛠️<br>💡 Passionate about continuous learning and exploring new technologies. Always eager to expand my skill set! ✨<br>🌱 Excited to connect with fellow developers and contribute to innovative projects. Let's build something amazing! 🤝
 
 
 ## 🌐 Socials:
