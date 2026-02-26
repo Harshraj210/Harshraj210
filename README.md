@@ -55,6 +55,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,vercel,netlify,git,github,postman,figma" />
 </p>
+---
+
+# 🧠 Languages & Productivity Tools
+
+<details>
+  <summary align="center"><b>▼ View Languages & Productivity Tools 🛠️</b></summary>
+  <br>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,figma,notion,postman,vscode,vercel,linux" />
+  </p>
+
+</details>
 
 ---
 
