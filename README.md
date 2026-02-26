@@ -62,7 +62,7 @@
 
 <p align="center">
   <details>
-    <summary><b>▼ View Languages & Productivity Tools 🛠️</b></summary>
+    <summary><b> View Languages & Productivity Tools 🛠️</b></summary>
     <br>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=,python,cpp,c,js,ts,figma,notion,postman,vscode,vercel" />
