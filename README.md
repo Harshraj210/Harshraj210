@@ -53,7 +53,7 @@
 
 <h3 align="center">☁️ DEVOPS & TOOLS</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,vercel,netlify,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,git,github,postman,figma" />
 </p>
 
 ---
