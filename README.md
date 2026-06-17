@@ -84,12 +84,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshraj210&show_icons=true&theme=tokyonight"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Harshraj210&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshraj210&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Harshraj210&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshraj210&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshraj210&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
